@@ -1,6 +1,7 @@
 # Signum
 Generate passwords and test password strength
-# Live Preview
+
+# Live
 https://kunalwalavalkar.github.io/Signum/
 # Etymology
 > sig·​num ˈsignəm
