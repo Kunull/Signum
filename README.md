@@ -1,9 +1,10 @@
 # Signum
 Generate passwords and test password strength
 
-# Live
+## Live
 https://kunalwalavalkar.github.io/Signum/
-# Etymology
+
+## Etymology
 > sig·​num ˈsignəm
 
 > plural signa -nə
