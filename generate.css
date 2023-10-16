@@ -28,8 +28,12 @@
       text-align: right;
     } 
 
-    .clickable:hover {
-      background-color: #777777;
+    .clickable::after {
+      content: "TEST";
+    }
+
+    .clickable:hover::after {
+      content: "7357";
     }
     
     .non-clickable {
