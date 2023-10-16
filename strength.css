@@ -29,8 +29,12 @@
       text-align: left;
     } 
 
-    .clickable:hover {
-      background-color: #777777;
+    .clickable::after {
+      content: "GENERATE PASSWORD";
+    }
+
+    .clickable:hover::after {
+      content: "63N32473 P455W02D";
     }
 
     .non-clickable {
